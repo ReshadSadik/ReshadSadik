@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me : reshadsadik@gmail.com
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=ReshadSadik)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ReshadSadik&show_icons=true)
 
 <!---
