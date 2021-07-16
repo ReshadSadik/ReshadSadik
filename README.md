@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me : reshadsadik@gmail.com
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ReshadSadik&show_icons=true)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ReshadSadik)
+
 
 <!---
 ReshadSadik/ReshadSadik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
