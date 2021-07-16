@@ -13,7 +13,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ReshadSadik)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ReshadSadik)
+
 
 
 <!---
