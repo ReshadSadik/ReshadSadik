@@ -1,4 +1,4 @@
- 👋 Hi, I am !Reshad Sadik
+  Hi, I am Reshad Sadik  👋
 - Front End Web Developer
 - 👀 I’m interested in Content Creating,Programming, Traveling.... 
 - 🌱 I’m currently learning Javascript
