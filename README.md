@@ -1,7 +1,7 @@
   Hi, I am Reshad Sadik  👋
 - Front End Web Developer
 - 👀 I’m interested in Programming, Content Creation,Traveling.... 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Python 
 - 📫 How to reach me : reshadsadik@gmail.com
 
