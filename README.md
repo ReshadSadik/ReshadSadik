@@ -44,7 +44,6 @@
     src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
     alt="Express.js"
   />
-	
 	  <img
     src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"
     alt="Socket.io"
@@ -87,7 +86,6 @@
     src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"
     alt="Git"
   />
-
 	  <img
     src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
     alt="Jira"
