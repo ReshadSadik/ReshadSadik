@@ -12,7 +12,7 @@
 <p align="center"> I'm currently learning <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">AWS</a></p>
 <p align="center"> All my projects available at:
 <a href="https://reshadsadik.netlify.app/">reshadsadik.app</a> </p>
-<h3 align="center">Front-End & Mobile Development Skills:</h3>
+<h3 align="center">Front-End Skills:</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
@@ -23,7 +23,6 @@
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
     alt="React Router"
   />
-
 	  <img
     src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
